@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.2
+loguru==0.7.0
+numpy==1.19.5
+pandas==1.1.5
+pandas_gbq==0.19.2
+protobuf==4.24.0
+pypi_simple==1.1.0
+requests==2.27.1
