@@ -1,4 +1,4 @@
-# Introduction
+# MalWuKong-Samples
 
 The repository provides samples of malicious code poisoning in OSS supply chains detected by MalWuKong and related security communities. We are actively maintaining the list and hope to contribute to the understanding and mitigation of supply chain attacks.
 
