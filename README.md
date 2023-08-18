@@ -21,7 +21,8 @@ pip install -r requirements.txt
 
 ```bash
 # PyPI Crawler
-# To get pkgs:
+# To get pkgs within specified durations:
+python src/pypi_crawler/multiprocess_downloader.py
 
 # NPM Crawler
 # To get all the npm pkg list:
